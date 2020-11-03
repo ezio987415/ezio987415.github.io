@@ -364,7 +364,8 @@ table tbody tr:hover {
     display: none;
   }
   .article__infos span {
-    margin-right: 10em;
+    font-size: 5.7rem;
+    margin-right: 1em;
   }
 }
 .article__date {

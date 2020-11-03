@@ -364,12 +364,11 @@ table tbody tr:hover {
     display: none;
   }
   .article__infos span {
-    font-size: 5.7rem;
     margin-right: 1em;
   }
 }
 .article__date {
-  font-size: 3.7rem;
+  font-size: 1.5rem;
 }
 .post__info span {
   margin-right: 1em;

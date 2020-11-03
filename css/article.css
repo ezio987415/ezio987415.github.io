@@ -158,9 +158,11 @@ table tbody tr:hover {
     display: none;
   }
   .article__infos span {
-    font-size: 3.7rem;
     margin-right: 1em;
   }
+}
+.article_date {
+  font-size: 3.7rem;
 }
 .post__info span {
   margin-right: 1em;

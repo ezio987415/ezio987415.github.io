@@ -161,7 +161,7 @@ table tbody tr:hover {
     margin-right: 1em;
   }
 }
-.article_date {
+.article__date {
   font-size: 3.7rem;
 }
 .post__info span {
